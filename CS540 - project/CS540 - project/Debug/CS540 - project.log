@@ -1,0 +1,4 @@
+﻿  CS540 - project.cpp
+c:\users\lordd_000\desktop\code\code\visual studio solutions\cs540 - project\cs540 - project\cs540 - project.cpp(100): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\lordd_000\desktop\code\code\visual studio solutions\cs540 - project\cs540 - project\cs540 - project.cpp(128): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  CS540 - project.vcxproj -> C:\Users\lordd_000\Desktop\CODE\Code\Visual Studio Solutions\CS540 - project\Debug\CS540 - project.exe
